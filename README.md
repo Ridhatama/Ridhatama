@@ -65,7 +65,7 @@ I'm also the kind of developer who enjoys exploring different fields. Maybe my n
 
 ---
 
-##Get in Touch
+## Get in Touch
 
 If you'd like to discuss a project, collaborate, or simply connect, feel free to reach out.
 
