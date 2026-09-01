@@ -76,4 +76,4 @@ I'm always open to meaningful conversations, exciting opportunities, and new ide
 
 ##
 
-> _Building software is not just about writing code—it's about creating solutions that make people's work simpler, faster, and more efficient._
+> _Die at the right time -Friedrich Nietzsche._
